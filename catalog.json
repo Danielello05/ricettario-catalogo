@@ -1,0 +1,620 @@
+{
+ "version": 1,
+ "ingredients": [
+  {
+   "key": "acciughe",
+   "name": "Acciughe",
+   "emoji": "🐟"
+  },
+  {
+   "key": "aceto",
+   "name": "Aceto",
+   "emoji": "🍶"
+  },
+  {
+   "key": "aceto-balsamico",
+   "name": "Aceto balsamico",
+   "emoji": "🍶"
+  },
+  {
+   "key": "acqua",
+   "name": "Acqua",
+   "emoji": "💧"
+  },
+  {
+   "key": "aglio",
+   "name": "Aglio",
+   "emoji": "🧄"
+  },
+  {
+   "key": "albumi",
+   "name": "Albumi",
+   "emoji": "🥚"
+  },
+  {
+   "key": "alloro",
+   "name": "Alloro",
+   "emoji": "🍃"
+  },
+  {
+   "key": "amido-di-mais",
+   "name": "Amido di mais",
+   "emoji": "🌽"
+  },
+  {
+   "key": "arancia",
+   "name": "Arancia",
+   "emoji": "🍊"
+  },
+  {
+   "key": "asparagi",
+   "name": "Asparagi",
+   "emoji": "🌱"
+  },
+  {
+   "key": "baccala",
+   "name": "Baccalà",
+   "emoji": "🐟"
+  },
+  {
+   "key": "basilico",
+   "name": "Basilico",
+   "emoji": "🌿"
+  },
+  {
+   "key": "broccoli",
+   "name": "Broccoli",
+   "emoji": "🥦"
+  },
+  {
+   "key": "brodo",
+   "name": "Brodo",
+   "emoji": "🍲"
+  },
+  {
+   "key": "burro",
+   "name": "Burro",
+   "emoji": "🧈"
+  },
+  {
+   "key": "cacao-amaro",
+   "name": "Cacao amaro",
+   "emoji": "🍫"
+  },
+  {
+   "key": "caffe",
+   "name": "Caffè",
+   "emoji": "☕"
+  },
+  {
+   "key": "capperi",
+   "name": "Capperi",
+   "emoji": "🫒"
+  },
+  {
+   "key": "carciofi",
+   "name": "Carciofi",
+   "emoji": "🥬"
+  },
+  {
+   "key": "carne-macinata",
+   "name": "Carne macinata",
+   "emoji": "🥩"
+  },
+  {
+   "key": "carote",
+   "name": "Carote",
+   "emoji": "🥕"
+  },
+  {
+   "key": "cavolfiore",
+   "name": "Cavolfiore",
+   "emoji": "🥦"
+  },
+  {
+   "key": "ceci",
+   "name": "Ceci",
+   "emoji": "🫘"
+  },
+  {
+   "key": "cioccolato-fondente",
+   "name": "Cioccolato fondente",
+   "emoji": "🍫"
+  },
+  {
+   "key": "cipolla",
+   "name": "Cipolla",
+   "emoji": "🧅"
+  },
+  {
+   "key": "cipolle-rosse",
+   "name": "Cipolle rosse",
+   "emoji": "🧅"
+  },
+  {
+   "key": "concentrato-di-pomodoro",
+   "name": "Concentrato di pomodoro",
+   "emoji": "🍅"
+  },
+  {
+   "key": "dado",
+   "name": "Dado",
+   "emoji": "🧊"
+  },
+  {
+   "key": "fagioli",
+   "name": "Fagioli",
+   "emoji": "🫘"
+  },
+  {
+   "key": "farina",
+   "name": "Farina",
+   "emoji": "🌾"
+  },
+  {
+   "key": "farina-00",
+   "name": "Farina 00",
+   "emoji": "🌾"
+  },
+  {
+   "key": "farina-di-semola",
+   "name": "Farina di semola",
+   "emoji": "🌾"
+  },
+  {
+   "key": "farina-integrale",
+   "name": "Farina integrale",
+   "emoji": "🌾"
+  },
+  {
+   "key": "finocchio",
+   "name": "Finocchio",
+   "emoji": "🌿"
+  },
+  {
+   "key": "fragole",
+   "name": "Fragole",
+   "emoji": "🍓"
+  },
+  {
+   "key": "funghi",
+   "name": "Funghi",
+   "emoji": "🍄"
+  },
+  {
+   "key": "funghi-porcini",
+   "name": "Funghi porcini",
+   "emoji": "🍄"
+  },
+  {
+   "key": "gamberi",
+   "name": "Gamberi",
+   "emoji": "🦐"
+  },
+  {
+   "key": "gnocchi",
+   "name": "Gnocchi",
+   "emoji": "🥔"
+  },
+  {
+   "key": "gorgonzola",
+   "name": "Gorgonzola",
+   "emoji": "🧀"
+  },
+  {
+   "key": "grana-padano",
+   "name": "Grana Padano",
+   "emoji": "🧀"
+  },
+  {
+   "key": "guanciale",
+   "name": "Guanciale",
+   "emoji": "🥓"
+  },
+  {
+   "key": "insalata",
+   "name": "Insalata",
+   "emoji": "🥗"
+  },
+  {
+   "key": "lasagne",
+   "name": "Lasagne",
+   "emoji": "🍝"
+  },
+  {
+   "key": "latte",
+   "name": "Latte",
+   "emoji": "🥛"
+  },
+  {
+   "key": "lenticchie",
+   "name": "Lenticchie",
+   "emoji": "🫘"
+  },
+  {
+   "key": "lievito-di-birra",
+   "name": "Lievito di birra",
+   "emoji": "🍞"
+  },
+  {
+   "key": "lievito-per-dolci",
+   "name": "Lievito per dolci",
+   "emoji": "🧁"
+  },
+  {
+   "key": "limone",
+   "name": "Limone",
+   "emoji": "🍋"
+  },
+  {
+   "key": "maiale",
+   "name": "Maiale",
+   "emoji": "🥩"
+  },
+  {
+   "key": "mandorle",
+   "name": "Mandorle",
+   "emoji": "🥜"
+  },
+  {
+   "key": "manzo",
+   "name": "Manzo",
+   "emoji": "🥩"
+  },
+  {
+   "key": "marsala",
+   "name": "Marsala",
+   "emoji": "🍷"
+  },
+  {
+   "key": "mascarpone",
+   "name": "Mascarpone",
+   "emoji": "🧀"
+  },
+  {
+   "key": "melanzane",
+   "name": "Melanzane",
+   "emoji": "🍆"
+  },
+  {
+   "key": "mele",
+   "name": "Mele",
+   "emoji": "🍎"
+  },
+  {
+   "key": "merluzzo",
+   "name": "Merluzzo",
+   "emoji": "🐟"
+  },
+  {
+   "key": "miele",
+   "name": "Miele",
+   "emoji": "🍯"
+  },
+  {
+   "key": "mortadella",
+   "name": "Mortadella",
+   "emoji": "🍖"
+  },
+  {
+   "key": "mozzarella",
+   "name": "Mozzarella",
+   "emoji": "🧀"
+  },
+  {
+   "key": "nocciole",
+   "name": "Nocciole",
+   "emoji": "🌰"
+  },
+  {
+   "key": "noce-moscata",
+   "name": "Noce moscata",
+   "emoji": "🌰"
+  },
+  {
+   "key": "noci",
+   "name": "Noci",
+   "emoji": "🌰"
+  },
+  {
+   "key": "olio-di-semi",
+   "name": "Olio di semi",
+   "emoji": "🌻"
+  },
+  {
+   "key": "olio-extravergine-d-oliva",
+   "name": "Olio extravergine d'oliva",
+   "emoji": "🫒"
+  },
+  {
+   "key": "olive",
+   "name": "Olive",
+   "emoji": "🫒"
+  },
+  {
+   "key": "origano",
+   "name": "Origano",
+   "emoji": "🌿"
+  },
+  {
+   "key": "pancetta",
+   "name": "Pancetta",
+   "emoji": "🥓"
+  },
+  {
+   "key": "pane",
+   "name": "Pane",
+   "emoji": "🍞"
+  },
+  {
+   "key": "pangrattato",
+   "name": "Pangrattato",
+   "emoji": "🍞"
+  },
+  {
+   "key": "panna",
+   "name": "Panna",
+   "emoji": "🥛"
+  },
+  {
+   "key": "parmigiano-reggiano",
+   "name": "Parmigiano Reggiano",
+   "emoji": "🧀"
+  },
+  {
+   "key": "passata-di-pomodoro",
+   "name": "Passata di pomodoro",
+   "emoji": "🍅"
+  },
+  {
+   "key": "pasta",
+   "name": "Pasta",
+   "emoji": "🍝"
+  },
+  {
+   "key": "patate",
+   "name": "Patate",
+   "emoji": "🥔"
+  },
+  {
+   "key": "pecorino-romano",
+   "name": "Pecorino romano",
+   "emoji": "🧀"
+  },
+  {
+   "key": "penne",
+   "name": "Penne",
+   "emoji": "🍝"
+  },
+  {
+   "key": "pepe-nero",
+   "name": "Pepe nero",
+   "emoji": "⚫"
+  },
+  {
+   "key": "peperoncino",
+   "name": "Peperoncino",
+   "emoji": "🌶️"
+  },
+  {
+   "key": "peperoni",
+   "name": "Peperoni",
+   "emoji": "🫑"
+  },
+  {
+   "key": "pinoli",
+   "name": "Pinoli",
+   "emoji": "🌰"
+  },
+  {
+   "key": "piselli",
+   "name": "Piselli",
+   "emoji": "🌱"
+  },
+  {
+   "key": "polenta",
+   "name": "Polenta",
+   "emoji": "🌽"
+  },
+  {
+   "key": "pollo",
+   "name": "Pollo",
+   "emoji": "🍗"
+  },
+  {
+   "key": "pomodori",
+   "name": "Pomodori",
+   "emoji": "🍅"
+  },
+  {
+   "key": "pomodori-pelati",
+   "name": "Pomodori pelati",
+   "emoji": "🍅"
+  },
+  {
+   "key": "pomodorini",
+   "name": "Pomodorini",
+   "emoji": "🍅"
+  },
+  {
+   "key": "prezzemolo",
+   "name": "Prezzemolo",
+   "emoji": "🌿"
+  },
+  {
+   "key": "prosciutto-cotto",
+   "name": "Prosciutto cotto",
+   "emoji": "🍖"
+  },
+  {
+   "key": "prosciutto-crudo",
+   "name": "Prosciutto crudo",
+   "emoji": "🍖"
+  },
+  {
+   "key": "ricotta",
+   "name": "Ricotta",
+   "emoji": "🧀"
+  },
+  {
+   "key": "rigatoni",
+   "name": "Rigatoni",
+   "emoji": "🍝"
+  },
+  {
+   "key": "riso",
+   "name": "Riso",
+   "emoji": "🍚"
+  },
+  {
+   "key": "riso-arborio",
+   "name": "Riso Arborio",
+   "emoji": "🍚"
+  },
+  {
+   "key": "rosmarino",
+   "name": "Rosmarino",
+   "emoji": "🌿"
+  },
+  {
+   "key": "rucola",
+   "name": "Rucola",
+   "emoji": "🥬"
+  },
+  {
+   "key": "sale",
+   "name": "Sale",
+   "emoji": "🧂"
+  },
+  {
+   "key": "sale-grosso",
+   "name": "Sale grosso",
+   "emoji": "🧂"
+  },
+  {
+   "key": "salmone",
+   "name": "Salmone",
+   "emoji": "🐟"
+  },
+  {
+   "key": "salsiccia",
+   "name": "Salsiccia",
+   "emoji": "🌭"
+  },
+  {
+   "key": "salvia",
+   "name": "Salvia",
+   "emoji": "🌿"
+  },
+  {
+   "key": "savoiardi",
+   "name": "Savoiardi",
+   "emoji": "🍪"
+  },
+  {
+   "key": "scalogno",
+   "name": "Scalogno",
+   "emoji": "🧅"
+  },
+  {
+   "key": "sedano",
+   "name": "Sedano",
+   "emoji": "🥬"
+  },
+  {
+   "key": "spaghetti",
+   "name": "Spaghetti",
+   "emoji": "🍝"
+  },
+  {
+   "key": "speck",
+   "name": "Speck",
+   "emoji": "🥓"
+  },
+  {
+   "key": "spinaci",
+   "name": "Spinaci",
+   "emoji": "🥬"
+  },
+  {
+   "key": "tagliatelle",
+   "name": "Tagliatelle",
+   "emoji": "🍝"
+  },
+  {
+   "key": "timo",
+   "name": "Timo",
+   "emoji": "🌿"
+  },
+  {
+   "key": "tonno",
+   "name": "Tonno",
+   "emoji": "🐟"
+  },
+  {
+   "key": "tuorli",
+   "name": "Tuorli",
+   "emoji": "🥚"
+  },
+  {
+   "key": "uova",
+   "name": "Uova",
+   "emoji": "🥚"
+  },
+  {
+   "key": "vaniglia",
+   "name": "Vaniglia",
+   "emoji": "🍦"
+  },
+  {
+   "key": "vino-bianco",
+   "name": "Vino bianco",
+   "emoji": "🥂"
+  },
+  {
+   "key": "vino-rosso",
+   "name": "Vino rosso",
+   "emoji": "🍷"
+  },
+  {
+   "key": "vitello",
+   "name": "Vitello",
+   "emoji": "🥩"
+  },
+  {
+   "key": "vongole",
+   "name": "Vongole",
+   "emoji": "🐚"
+  },
+  {
+   "key": "yogurt",
+   "name": "Yogurt",
+   "emoji": "🥛"
+  },
+  {
+   "key": "zafferano",
+   "name": "Zafferano",
+   "emoji": "🌼"
+  },
+  {
+   "key": "zucca",
+   "name": "Zucca",
+   "emoji": "🎃"
+  },
+  {
+   "key": "zucchero",
+   "name": "Zucchero",
+   "emoji": "🍬"
+  },
+  {
+   "key": "zucchero-a-velo",
+   "name": "Zucchero a velo",
+   "emoji": "🍬"
+  },
+  {
+   "key": "zucchine",
+   "name": "Zucchine",
+   "emoji": "🥒"
+  }
+ ]
+}
