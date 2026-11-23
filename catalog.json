@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "ingredients": [
   {
    "key": "acciughe",
@@ -85,6 +85,10 @@
    "key": "caffe",
    "name": "Caffè",
    "emoji": "☕"
+  },
+  {
+   "key": "cannella",
+   "name": "Cannella"
   },
   {
    "key": "capperi",
