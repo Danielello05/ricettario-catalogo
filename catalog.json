@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "ingredients": [
   {
    "key": "acciughe",
@@ -595,6 +595,11 @@
    "key": "zafferano",
    "name": "Zafferano",
    "emoji": "🌼"
+  },
+  {
+   "key": "zenzero",
+   "name": "Zenzero",
+   "image": "images/zenzero.jpg?v=1795437535581"
   },
   {
    "key": "zucca",
